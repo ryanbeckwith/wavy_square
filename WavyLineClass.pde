@@ -162,7 +162,6 @@ void draw()
   for (int i = 0; i < wavyLines.size(); i++)
   {
     stroke(r, g, b, wavyLines.get(i).ellipseHeight1 / wavyLines.get(i).len * wavyLines.get(i).heightFactor * 200.0);
-    //text("Line " + i + ": " + wavyLines.get(i).speed, width - 150, 50 + i * 15);
     if (spacePressed)
     {
       wavyLines.get(i).started = true;
