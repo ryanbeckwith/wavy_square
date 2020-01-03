@@ -1,5 +1,9 @@
 # wavy_square
-A visually appealing graphic that consists of multiple lines that deform into wavelike, elliptical patterns in the shape of a square. A personal project.
+A visually appealing graphic that consists of multiple lines that deform into wavelike, elliptical patterns in the shape of a square. A personal project.\
+\
+![Screenshot_75](https://raw.githubusercontent.com/ryanbeckwith/wavy_square/master/Screenshot_75.png)\
+![Screenshot_76](https://raw.githubusercontent.com/ryanbeckwith/wavy_square/master/Screenshot_76.png)\
+![Screenshot_77](https://raw.githubusercontent.com/ryanbeckwith/wavy_square/master/Screenshot_77.png)
 ### Controls
 space - Starts the simulation.\
 w - Minimally increases the stroke width of the lines\
